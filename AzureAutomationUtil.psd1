@@ -21,7 +21,7 @@ ModuleVersion = '0.0.1'
 GUID = 'bf960bdc-3d73-4bc0-a6b0-3c4e734b49c2'
 
 # Author of this module
-Author = 'Syspeope'
+Author = 'Syspeople'
 
 # Company or vendor of this module
 CompanyName = 'Syspeople'
